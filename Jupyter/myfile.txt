@@ -1,0 +1,3 @@
+First license
+second line and
+third line
